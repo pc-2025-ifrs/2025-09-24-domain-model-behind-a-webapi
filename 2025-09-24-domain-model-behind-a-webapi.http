@@ -1,0 +1,6 @@
+@_2025_09_24_domain_model_behind_a_webapi_HostAddress = http://localhost:5281
+
+GET {{_2025_09_24_domain_model_behind_a_webapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
