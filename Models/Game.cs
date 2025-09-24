@@ -1,4 +1,4 @@
-namespace Steam.Model
+namespace Steam.Models
 {
 
     

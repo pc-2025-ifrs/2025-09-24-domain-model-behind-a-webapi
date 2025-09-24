@@ -1,11 +1,11 @@
-namespace Steam.Model
+namespace Steam.Models
 {
     // 1:1, 1:N, N:N
     // Unidirecional, Bidirecional
     public record class Developer
     {
 
-        public required Guid Id
+        public Guid Id
         {
             get; set;
         }

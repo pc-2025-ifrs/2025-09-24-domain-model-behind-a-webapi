@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace _2025_09_24_domain_model_behind_a_webapi.Controllers;
+namespace WebSteam.Controllers;
 
 [ApiController]
 [Route("[controller]")]
