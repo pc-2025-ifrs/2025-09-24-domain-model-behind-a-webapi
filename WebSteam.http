@@ -1,0 +1,18 @@
+@host = http://localhost:5241
+
+GET {{host}}/weatherforecast/
+Accept: application/json
+
+### Criar um novo developer (payload (body) não é o model)
+
+POST {{host}}/api/v1/developers
+Content-Type: application/json
+
+{
+    "name": "Isabella Rosa"
+}
+
+### Listar todos os devs
+
+GET {{host}}/api/v1/developers
+Accept: application/json

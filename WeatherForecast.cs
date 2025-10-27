@@ -1,4 +1,4 @@
-namespace _2025_09_24_domain_model_behind_a_webapi;
+namespace WebSteam;
 
 public class WeatherForecast
 {

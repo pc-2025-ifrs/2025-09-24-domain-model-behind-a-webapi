@@ -1,6 +1,11 @@
 using Microsoft.AspNetCore.Mvc;
+<<<<<<< HEAD
 using _2025_09_24_domain_model_behind_a_webapi;
 namespace WebYoutube.Controllers;
+=======
+
+namespace WebSteam.Controllers;
+>>>>>>> 488cb584a59ccb36626a202b4ff8fa521a0d1603
 
 [ApiController]
 [Route("[controller]")]
